@@ -7416,7 +7416,7 @@
     "fileVersion": 1124102917,
     "fileSize": 240760,
     "originalUrl": "https://otau.meethue.com/storage/ZGB_100B_0109/3a1c8cf8-3f4c-4464-93f0-24cc7f67f0d7/Switch-ATmega_0012.sbl-ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/Switch-ATmega_0012.sbl-ota",
+    "url": "https://github.com/dsg22/zigbee-OTA/raw/master/images/Hue/Switch-ATmega_0012.sbl-ota",
     "imageType": 265,
     "manufacturerCode": 4107,
     "sha512": "6bec6b6dce7ef9bb47c4467643222871788256d5c3f0aa88ded80be24fc002dbdda525ca2cafa78b996ff7fe0c18d7c9194288e4f6b40f0f37d147bc1724dd4e",
